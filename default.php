@@ -7,6 +7,7 @@
 	<center><h1>Teste:</h1></center>
 <input type="text" id="Login"></input>
 <input type="password" id="Login"></input>
+<input type="button" text="OK"></input>
 
 </body>
 </html>
