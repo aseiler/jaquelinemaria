@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jm.conexao", "jm.conexao\jm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jm.negocio", "jm.negocio\jm.negocio.csproj", "{E950D3C9-543C-4B39-8D17-1D310E8E0743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jm.entidade", "jm.entity\jm.entidade.csproj", "{06126073-8AA1-4330-8129-6A0D21C187D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jm.entidade", "jm.entidade\jm.entidade.csproj", "{06126073-8AA1-4330-8129-6A0D21C187D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

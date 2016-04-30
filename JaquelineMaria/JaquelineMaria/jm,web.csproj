@@ -238,7 +238,7 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\jm.entity\jm.entidade.csproj">
+    <ProjectReference Include="..\jm.entidade\jm.entidade.csproj">
       <Project>{06126073-8aa1-4330-8129-6a0d21c187d4}</Project>
       <Name>jm.entidade</Name>
     </ProjectReference>
