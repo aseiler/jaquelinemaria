@@ -1,0 +1,5 @@
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.entidade\bin\Debug\jm.entidade.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.entidade\bin\Debug\jm.entidade.pdb
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.entidade\obj\Debug\jm.entidade.csprojResolveAssemblyReference.cache
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.entidade\obj\Debug\jm.entidade.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.entidade\obj\Debug\jm.entidade.pdb

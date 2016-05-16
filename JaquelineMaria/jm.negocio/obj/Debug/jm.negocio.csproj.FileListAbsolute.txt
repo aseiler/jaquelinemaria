@@ -1,0 +1,12 @@
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.negocio.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.negocio.pdb
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.dados.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.entidade.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.dados.pdb
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.entidade.pdb
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\obj\Debug\jm.negocio.csprojResolveAssemblyReference.cache
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\obj\Debug\jm.negocio.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\obj\Debug\jm.negocio.pdb
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.conexao.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\MySql.Data.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.negocio\bin\Debug\jm.conexao.pdb

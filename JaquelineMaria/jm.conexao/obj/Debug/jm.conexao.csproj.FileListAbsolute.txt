@@ -1,0 +1,6 @@
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.conexao\bin\Debug\jm.conexao.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.conexao\bin\Debug\jm.conexao.pdb
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.conexao\bin\Debug\MySql.Data.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.conexao\obj\Debug\jm.conexao.csprojResolveAssemblyReference.cache
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.conexao\obj\Debug\jm.conexao.dll
+e:\Documents\GitHub\jaquelinemaria\JaquelineMaria\jm.conexao\obj\Debug\jm.conexao.pdb

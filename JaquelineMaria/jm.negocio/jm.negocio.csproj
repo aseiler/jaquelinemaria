@@ -39,12 +39,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContasBS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\jm.conexao\jm.conexao.csproj">
-      <Project>{e4984e5a-4ed7-4387-bf12-188c171fde89}</Project>
-      <Name>jm.conexao</Name>
+    <ProjectReference Include="..\jm.dados\jm.dados.csproj">
+      <Project>{d9c0bae4-6dd9-4b6e-980d-a181805aa9ee}</Project>
+      <Name>jm.dados</Name>
     </ProjectReference>
     <ProjectReference Include="..\jm.entidade\jm.entidade.csproj">
       <Project>{06126073-8aa1-4330-8129-6a0d21c187d4}</Project>
