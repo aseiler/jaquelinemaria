@@ -14,7 +14,7 @@ namespace jm.conexao.conexao
         private MySqlConnection ConexaoMySql()
         {
 
-            return new MySqlConnection("Server=192.168.1.2;Database=contas_qa;Uid=app;Pwd=Ass24100*;");
+            return new MySqlConnection("Server=192.168.1.2;Database=contas_qa;Uid=app;Pwd=xxx;");
 
         }
 
